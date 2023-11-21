@@ -1,0 +1,23 @@
+{
+  "name": "startbootstrap-business-casual-gh-pages",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^10.0.1",
+    "mysql2": "^3.6.2",
+    "swagger-ui-express": "^5.0.0",
+    "tedious": "^16.4.1",
+    "yamljs": "^0.3.0"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
